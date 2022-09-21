@@ -2,6 +2,7 @@ public class Book{
   private String title;
   private String author;
   private int pageNumber;
+  private Television television;
 
   public Book(){
     title = "Das Kapital";
